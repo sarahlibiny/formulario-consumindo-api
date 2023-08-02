@@ -1,6 +1,7 @@
 # formulario-consumindo-api
 Projeto desenvolvido durante o curso Javascript: consumindo e tratando dados de uma API.
 
+![ApiViaCEP](https://github.com/sarahlibiny/formulario-consumindo-api/assets/122837977/25b2bd37-79c9-42b0-984f-a78e2947c4a7)
 
 ## ✔️ Tecnologias utilizadas
 
